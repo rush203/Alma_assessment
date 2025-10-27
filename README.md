@@ -24,7 +24,6 @@ It supports file uploads (resume/CV), persistent storage, email notifications, a
 
 ### 1) Prereqs
 - Python **3.11+**
-- (Optional) Docker (for MailHog)
 
 ### 2) Setup
 ```bash
